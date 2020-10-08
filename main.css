@@ -23,3 +23,20 @@
         text-decoration: none;
         text-transform: uppercase;
     }
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    background: rgb(238, 227, 77);
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 100%;
+    padding: 40px;
+    border: 3px solid red;
+    font-size: 20px;
+}
