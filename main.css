@@ -5,7 +5,7 @@
 }
 section{
     width: 100%;
-    background: darkkhaki;
+    background: rgb(238, 227, 77);
     display: flex;
     justify-content: space-between;
 }
